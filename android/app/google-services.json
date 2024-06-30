@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "155348518044",
+    "project_id": "eyacleanlaundry",
+    "storage_bucket": "eyacleanlaundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155348518044:android:bca80995558c90d4c65959",
+        "android_client_info": {
+          "package_name": "com.sahl.eya_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155348518044-mjv6uvbcl0fokpfiha11cajk908mbvmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWP99iwOAjezQ3RttR006AIt_hgc-F1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155348518044-mjv6uvbcl0fokpfiha11cajk908mbvmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155348518044-0taeu7stqk6g911jnl8spe2si050cp07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahl.EyaCleanApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155348518044:android:fdd36ed0f602c97cc65959",
+        "android_client_info": {
+          "package_name": "com.sahl.eya_laundry_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155348518044-mjv6uvbcl0fokpfiha11cajk908mbvmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWP99iwOAjezQ3RttR006AIt_hgc-F1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155348518044-mjv6uvbcl0fokpfiha11cajk908mbvmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155348518044-0taeu7stqk6g911jnl8spe2si050cp07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahl.EyaCleanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
